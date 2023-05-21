@@ -1,0 +1,77 @@
+header{
+    background-color: rgb(52,133, 255);
+    width: 750px;
+    height: 240px;
+    border-top: 10px solid #000;
+    border-left: 10px solid #000;
+    border-bottom: 5px solid #000;
+    border-right: 10px solid #000;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+nav{
+    background-color: rgb(101, 161, 61);
+    height: 50px;
+    width: 750px;
+    border:10px #000 solid;
+    border-top: 5px solid #000;
+    border-left: 10px solid #000;
+    border-bottom: 5px solid #000;
+    border-right: 10px solid #000;
+}
+
+main{
+    background-color: #7c7061;
+    width: 750px;
+    height: 400px;
+    border-top: 5px solid #000;
+    border-left: 10px solid #000;
+    border-bottom: 5px solid #000;
+    border-right: 10px solid #000;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+article{
+    background-color: #fff;
+    width: 446px;
+    margin: 5px;
+    border-top: 2px solid #AA8800;
+    border-left: 2px solid #AA8800;
+    border-bottom: 2px solid #AA8800;
+    border-right: 2px solid #AA8800;
+}
+
+aside{
+    background-color: #fff;
+    width: 276px;
+    margin: 5px; 
+    border-top: 2px solid #AA8800;
+    border-left: 2px solid #AA8800;
+    border-bottom: 2px solid #AA8800;
+    border-right: 2px solid #AA8800;
+}
+
+footer{
+    background-color: #daa520;
+    width: 750px;
+    height: 50px;
+    border-top: 5px solid #000;
+    border-left: 10px solid #000;
+    border-bottom: 10px solid #000;
+    border-right: 10px solid #000;
+}
+
+.banner{
+    background-color: aliceblue;
+    width: 500px;
+    margin: 5px;
+}
+
+.logo{
+    background-color: aliceblue;
+    border: 5px chocolate;
+    width: 230px;
+    margin: 5px;
+}
